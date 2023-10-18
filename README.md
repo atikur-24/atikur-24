@@ -1,4 +1,4 @@
-![A Passionate MERN Stack Developer](https://pbs.twimg.com/profile_banners/1670662755538579457/1689952116/700x200)
+![A Passionate MERN Stack Developer](https://pbs.twimg.com/profile_banners/1670662755538579457/1689952116/600x200)
 ## Hi there 👋, This is Atikur Rahman
 #### A Passionate MERN Stack Developer
 
