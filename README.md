@@ -1,4 +1,4 @@
-![A Passionate MERN Stack Developer](https://pbs.twimg.com/profile_banners/1670662755538579457/1689952116/800x200)
+![A Passionate MERN Stack Developer](https://pbs.twimg.com/profile_banners/1670662755538579457/1689952116/600x200)
 ## Hi there 👋, This is Atikur Rahman
 #### A Passionate MERN Stack Developer
 
@@ -23,4 +23,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=atikur-24)  
 
-![Profile views](https://gpvc.arturio.dev/atikur-24)  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atikur-24&label=Profile%20views&color=0e75b6&style=flat" alt="atikur-24" /> </p> 
