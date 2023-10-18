@@ -19,10 +19,15 @@ This is Atikur Rahman, a highly passionate Web Application Developer with strong
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikur-24&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atikur-24)  
-
 ![GitHub metrics](https://metrics.lecoq.io/atikur-24)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=atikur-24)  
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=atikur-24&label=Profile%20views&color=0e75b6&style=flat" alt="atikur-24" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikur-24&label=Profile%20views&color=0e75b6&style=flat" alt="atikur-24" /> </p> 
+
+:coffee: &emsp;Contact with me! </br>
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah149081/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/abdullah149081#5993)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah149081@hotmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdullah149081/)
