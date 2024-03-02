@@ -19,6 +19,12 @@ This is Atikur Rahman, a highly passionate Web Application Developer with strong
   
 </div>
 
+<p align="center">
+  <a href="https://github.com/atikur-24">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atikur-24&theme=radical" alt="Atikur Rahman's GitHub Contribution"/>
+  </a>
+</p>
+
 
 ### :coffee: &emsp;Contact with me </br>
 
