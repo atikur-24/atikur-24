@@ -1,4 +1,4 @@
-![A Passionate MERN Stack Developer](https://pbs.twimg.com/profile_banners/1670662755538579457/1689952116/600x200)
+![A Passionate MERN Stack Developer](https://ibb.co/jWW558n)
 ## Hi there 👋, This is Atikur Rahman
 #### A Passionate MERN Stack Developer
 
@@ -11,11 +11,6 @@ This is Atikur Rahman, a highly passionate Web Application Developer with strong
 </p>
 <br />
 
-<p align="center">
-  <a href="https://github.com/atikur-24">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikur-24&theme=github_dark" alt="Atikur Rahman's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/atikur-24">
@@ -25,10 +20,10 @@ This is Atikur Rahman, a highly passionate Web Application Developer with strong
 
 <a>
   <a href="https://github.com/atikur-24">
-    <img alt="Atikur Rahman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=atikur-24" height="192px" width="49.5%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikur-24&theme=github_dark" alt="Atikur Rahman's GitHub streak"/>
   </a>
   <a href="https://github.com/atikur-24">
-    <img alt="Atikur Rahman's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=atikur-24&langs_count=8&layout=compact&theme=github_dark" height="192px" width="49.5%"/>
+    <img alt="Atikur Rahman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=atikur-24" height="192px" width="49.5%"/>
   </a>
 </a>
 <br />
