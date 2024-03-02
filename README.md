@@ -2,7 +2,7 @@
 ## Hi there 👋, This is Atikur Rahman
 #### A Passionate MERN Stack Developer
 
-This is Atikur Rahman, a highly passionate Web Application Developer with strong knowledge of Front-end Technologies like HTML, CSS, Bootstrap, Tailwind, JavaScript, React.js, Redux, Express.js, MongoDB. I enjoy working with the JavaScript ecosystem. Dedicated to delivering high-quality code and optimizing website performance, I aim to contribute to a dynamic team and help drive innovative projects in a fast-paced environment.
+This is Atikur Rahman, a highly passionate Web Application Developer with strong knowledge of Front-end Technologies like HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React.js, Next.js Redux, Express.js, MongoDB. I enjoy working with the JavaScript ecosystem. Dedicated to delivering high-quality code and optimizing website performance, I aim to contribute to a dynamic team and help drive innovative projects in a fast-paced environment.
 
 ### :computer: Technologies & Tools
 
@@ -12,10 +12,10 @@ This is Atikur Rahman, a highly passionate Web Application Developer with strong
 </p><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-24)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=atikur-24)  
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-24)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=atikur-24) 
+</div>
 
 
 :coffee: &emsp;Contact with me! </br>
