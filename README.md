@@ -11,10 +11,12 @@ This is Atikur Rahman, a highly passionate Web Application Developer with strong
 </p><br/>
 
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-24)](https://github.com/anuraghazra/github-readme-stats)
+<div >
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-24&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages")](https://github.com/anuraghazra/github-readme-stats)
 
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=atikur-24) 
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=atikur-24)
+  
 </div>
 
 
