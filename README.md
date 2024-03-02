@@ -14,13 +14,9 @@ This is Atikur Rahman, a highly passionate Web Application Developer with strong
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-24)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikur-24&show_icons=true)  
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=atikur-24)  
 
-
-![GitHub metrics](https://metrics.lecoq.io/atikur-24)  
 
 :coffee: &emsp;Contact with me! </br>
 
