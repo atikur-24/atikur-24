@@ -3,7 +3,7 @@
 ## Hi 👋, This is Atikur Rahman
 
 <p align="center">
-  <a href="https://github.com/atikur-24"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Front%20End%20Developer&center=true&width=380&height=45">
+  <a href="https://github.com/atikur-24"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Front%20End%20Developer&center=true&width=380&height=50">
   </a>
 </p>
 
