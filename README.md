@@ -1,4 +1,4 @@
-<img src="https://ibb.co/jWW558n" alt="Atikur Rahman"/>
+<img src="https://i.ibb.co/gmMYGjT/Atikur-Rahman-1.png" alt="Atikur Rahman"/>
 
 ## Hi 👋, This is Atikur Rahman
 
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-This is Atikur Rahman, a highly passionate Web Application Developer mainly working with the JavaScript ecosystem. Dedicated to delivering high-quality code and optimizing website performance, I aim to contribute to a dynamic team and help drive innovative projects in a fast-paced environment.
+This is Atikur Rahman, a highly passionate Web Application Developer mainly working with the JavaScript Ecosystem. Dedicated to delivering high-quality code and optimizing website performance, I aim to contribute to a dynamic team and help drive innovative projects in a fast-paced environment.
 
 ### :computer: Technologies & Tools
 
@@ -26,10 +26,10 @@ This is Atikur Rahman, a highly passionate Web Application Developer mainly work
 <p align="center">
   <a>
    <a href="https://github.com/atikur-24">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikur-24&theme=github_dark&border=1f2932" alt="Atikur Rahman's GitHub streak" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikur-24&theme=github_dark&border=1f2932" alt="Atikur Rahman's GitHub streak" height="200px" width="45%" />
    </a>
   <a href="https://github.com/atikur-24">
-    <img alt="Atikur Rahman's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atikur-24&theme=github_dark" width="37%"/>
+    <img alt="Atikur Rahman's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atikur-24&theme=github_dark" height="200px" width="37%"/>
   </a>
  </a>
 </p>
