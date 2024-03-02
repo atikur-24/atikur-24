@@ -21,14 +21,11 @@ This is Atikur Rahman, a highly passionate Web Application Developer mainly work
   <a href="https://github.com/atikur-24">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atikur-24&theme=transparent" alt="Atikur Rahman's GitHub Contribution"/>
   </a>
-</p>
-
-<p align="center">
    <a href="https://github.com/atikur-24">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikur-24&hide_border=true&theme=transparent" alt="Atikur Rahman's GitHub streak" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikur-24&hide_border=true&card_width=338&theme=transparent" alt="Atikur Rahman's GitHub streak"/>
    </a>
   <a href="https://github.com/atikur-24">
-    <img alt="Atikur Rahman's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atikur-24&theme=transparent" width="35%"/>
+    <img alt="Atikur Rahman's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atikur-24&theme=transparent"/>
   </a>
 </p>
 <br>
