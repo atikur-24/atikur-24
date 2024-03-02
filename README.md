@@ -23,7 +23,7 @@ This is Atikur Rahman, a highly passionate Web Application Developer with strong
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikur-24&theme=github_dark" alt="Atikur Rahman's GitHub streak" width="59.5%" />
   </a>
   <a href="https://github.com/atikur-24">
-    <img alt="Atikur Rahman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=atikur-24" height="192px" width="39.5%"/>
+    <img alt="Atikur Rahman's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atikur-24&theme=github_dark" width="39.5%"/>
   </a>
 </a>
 <br />
