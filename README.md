@@ -1,13 +1,13 @@
-<img src="https://i.ibb.co/gmMYGjT/Atikur-Rahman-1.png" alt="Atikur Rahman"/>
-
 ## Hi 👋, This is Atikur Rahman
 
 <p align="center">
-  <a href="https://github.com/atikur-24"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Front%20End%20Developer&center=true&width=400&height=60">
+  <a href="https://github.com/atikur-24"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web Appication Developer;Front%20End%20Developer&center=true&width=400&height=60">
   </a>
 </p>
 
-This is Atikur Rahman, a highly passionate Web Application Developer mainly working with the JavaScript Ecosystem. Dedicated to delivering high-quality code and optimizing website performance, I aim to contribute to a dynamic team and help drive innovative projects in a fast-paced environment.
+This is Atikur Rahman, a Web Application Developer with 1.6 years of industrial experience, primarily working with the JavaScript ecosystem. I am passionate about building efficient, high-quality web applications and optimizing performance. I thrive in dynamic team environments and am committed to contributing to innovative projects while continuously enhancing my skills and delivering impactful solutions.
+
+**I’m currently working as a Frontend Developer at [Avaton](https://avaton.io/)**
 
 ### :computer: Technologies & Tools
 
