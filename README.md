@@ -1,7 +1,8 @@
 ## Hi 👋, This is Atikur Rahman
 
 <p align="center">
-  <a href="https://github.com/atikur-24"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%Appication%Developer;Front%20End%20Developer&center=true&width=400&height=60">
+  <a href="https://github.com/atikur-24">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Application%20Developer;Front%20End%20Developer&center=true&width=400&height=60">
   </a>
 </p>
 
