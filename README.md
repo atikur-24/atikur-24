@@ -8,7 +8,7 @@
 
 This is Atikur Rahman, a Web Application Developer with 1.6 years of industrial experience, primarily working with the JavaScript ecosystem. I am passionate about building efficient, high-quality web applications and optimizing performance. I thrive in dynamic team environments and am committed to contributing to innovative projects while continuously enhancing my skills and delivering impactful solutions.
 
-**I’m currently working as a Frontend Developer at [Avaton](https://avaton.io/)**
+**🌱 I’m currently working as a Frontend Developer at [Avaton](https://avaton.io/)**
 
 ### :computer: Technologies & Tools
 
